@@ -1,1 +1,1 @@
-# My-Tailwind-Component
+# Tailwind-tsx-Component
